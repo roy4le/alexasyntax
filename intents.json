@@ -1,0 +1,12 @@
+{
+  "intents": [
+    {
+      "intent" : "SetLangauge",
+      "slots": [
+        {
+          "name": "language"
+        }
+      ]
+    }
+  ]
+}
